@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: 西美毕业季闲置回收规划与物联管理系统",
+  "description": "专为西安美术学院雁塔校区设计的毕业季闲置物品回收、智能自提与仓储寄送一体化布局规划与管理系统，支持多维空间方案调整、物联自提模拟及成本核算。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
